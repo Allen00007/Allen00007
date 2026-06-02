@@ -19,41 +19,41 @@
 
 <!-- CODE BLOCK ABOUT ME -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-
+```python
 # about_me.py
 
 class AlenBaby:
-    def __init__(self):
-        self.name           = "Alen Baby"
-        self.location       = "Bangalore, Karnataka, India"
-        self.degree         = "M.Sc. Data Science & Analytics @ Jain University (2024–2026)"
-        self.role           = "Aspiring Data Analyst"
-        self.email          = "alenbaby2255@gmail.com"
 
-        self.stack = [
+    def __init__(self):
+        self.name = "Alen Baby"
+        self.role = "Aspiring Data Analyst"
+        self.location = "Bangalore, India"
+        self.education = "M.Sc. Data Science & Analytics | Jain University"
+
+        self.skills = [
             "Python", "SQL", "Power BI",
-            "Tableau", "Excel", "Scikit-Learn",
-            "TensorFlow", "PyTorch", "MongoDB"
+            "Excel", "PostgreSQL", "Machine Learning"
+        ]
+
+        self.projects = [
+            "Customer Churn Prediction",
+            "Customer Segmentation",
+            "Alzheimer's MRI Classification",
+            "Business Intelligence Dashboard"
         ]
 
         self.currently_learning = [
             "Advanced Machine Learning",
-            "Deep Learning (CNNs, Transformers)",
-            "Big Data Technologies",
-            "Cloud Data Platforms (AWS / GCP)"
+            "Deep Learning",
+            "Cloud Data Platforms"
         ]
 
-        self.fun_fact = (
-            "I built a CNN that classifies Alzheimer's MRIs "
-            "with ~95% accuracy — and it fits on a laptop GPU 🧠"
-        )
-
     def motto(self):
-        return "Data is the new oil — I help refine it. ⚡"
+        return "Transforming data into actionable insights."
 
 me = AlenBaby()
 print(me.motto())
+```
 
 
 <br clear="right"/>

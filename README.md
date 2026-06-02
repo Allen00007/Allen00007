@@ -19,42 +19,42 @@
 
 <!-- CODE BLOCK ABOUT ME -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```python
 # about_me.py
 
 class AlenBaby:
-
     def __init__(self):
-        self.name = "Alen Baby"
-        self.role = "Aspiring Data Analyst"
-        self.location = "Bangalore, India"
-        self.education = "M.Sc. Data Science & Analytics | Jain University"
+        self.name           = "Alen Baby"
+        self.location       = "Bangalore, Karnataka, India"
+        self.degree         = "M.Sc. Data Science & Analytics @ Jain University (2024–2026)"
+        self.role           = "Aspiring Data Analyst"
+        self.email          = "alenbaby2255@gmail.com"
 
-        self.skills = [
+        self.stack = [
             "Python", "SQL", "Power BI",
-            "Excel", "PostgreSQL", "Machine Learning"
-        ]
-
-        self.projects = [
-            "Customer Churn Prediction",
-            "Customer Segmentation",
-            "Alzheimer's MRI Classification",
-            "Business Intelligence Dashboard"
+            "Tableau", "Excel", "Scikit-Learn",
+            "TensorFlow", "PyTorch", "MongoDB"
         ]
 
         self.currently_learning = [
             "Advanced Machine Learning",
-            "Deep Learning",
-            "Cloud Data Platforms"
+            "Deep Learning (CNNs, Transformers)",
+            "Big Data Technologies",
+            "Cloud Data Platforms (AWS / GCP)"
         ]
 
+        self.fun_fact = (
+            "I built a CNN that classifies Alzheimer's MRIs "
+            "with ~95% accuracy — and it fits on a laptop GPU 🧠"
+        )
+
     def motto(self):
-        return "Transforming data into actionable insights."
+        return "Data is the new oil — I help refine it. ⚡"
 
 me = AlenBaby()
 print(me.motto())
 ```
-
 
 <br clear="right"/>
 
@@ -105,7 +105,46 @@ print(me.motto())
 
 ---
 
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
 
+<div align="center">
+  <a href="https://github.com/alenbaby2255">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=alenbaby2255&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Alen's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/alenbaby2255">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenbaby2255&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  </a>
+</div>
+
+---
+
+<!-- STREAK STATS -->
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alenbaby2255&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alenbaby2255&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+<!-- TROPHY WALL -->
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alenbaby2255&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+</div>
+
+---
 
 <!-- WORK EXPERIENCE -->
 ## 💼 Work Experience
@@ -199,7 +238,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| M.Sc. Data Science & Analytics | Jain Deemed-to-be-University, Bangalore | 2024 – 2026 | Completed |
+| M.Sc. Data Science & Analytics | Jain Deemed-to-be-University, Bangalore | 2024 – 2026 | In Progress |
 | B.Sc. Mathematics | Nirmalagiri College, Kuthuparamba (Kannur University) | 2020 – 2023 | Completed |
 
 </div>

@@ -20,7 +20,7 @@
 <!-- CODE BLOCK ABOUT ME -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+
 # about_me.py
 
 class AlenBaby:
@@ -54,7 +54,7 @@ class AlenBaby:
 
 me = AlenBaby()
 print(me.motto())
-```
+
 
 <br clear="right"/>
 
